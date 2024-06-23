@@ -1,0 +1,4 @@
+flask
+ply
+openai
+gunicorn
